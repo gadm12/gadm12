@@ -75,13 +75,4 @@ A full-stack fitness application built with a Django REST API and React frontend
 - 📧 Email: **gadm5336@gmail.com**
 - 📄 [View My Resume](https://gadm12.github.io/portfolio/assets/resume-CgzRrXIU.pdf)
 
----
-
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadm12&show_icons=true&locale=en&layout=compact" alt="gadm12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadm12&show_icons=true&locale=en" alt="gadm12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gadm12&" alt="gadm12" /></p>
 
