@@ -79,8 +79,9 @@ A full-stack fitness application built with a Django REST API and React frontend
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gadm12&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadm12&layout=compact&hide_border=true" height="165" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadm12&show_icons=true&locale=en&layout=compact" alt="gadm12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadm12&show_icons=true&locale=en" alt="gadm12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gadm12&" alt="gadm12" /></p>
 
